@@ -1,6 +1,3 @@
-Certainly! Here’s a sample README file for an AI web scraper project. You can customize it based on the specifics of your project.
-
----
 
 # AI Web Scraper
 
